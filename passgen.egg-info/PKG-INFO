@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: passgen
+Version: 0.1
+Summary: Generates easy to remember passwords.
+Home-page: https://github.com/hinsbart/passgen
+Author: Andreas Haas
+Author-email: hinsbart@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: Generates easy to remember passwords.
+Platform: UNKNOWN
